@@ -1,0 +1,12 @@
+@apiKey = {{$dotenv API_KEY}}
+
+GET https://www.googleapis.com/youtube/v3/search
+    ?part=snippet
+    &channelId=UC-mOekGSesms0agFntnQang
+    &q=테코톡
+    &keypart=id&maxResults=50
+    &type=video
+    &order=date
+    &pageToken=CPoBEAA
+    &key={{apiKey}} HTTP/1.1
+content-type: application/json
