@@ -1,0 +1,1713 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "qzw-Geg07R7_uDjjTbRxwOqv0qA",
+  "nextPageToken": "CMgBEAA",
+  "prevPageToken": "CJYBEAE",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 351,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "t3YVZzp8loe49b0sv2ksFo4pb4g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_OI9mKuFb7c"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-26T08:18:44Z",
+        "channelId": "UC-mOekGSesms0agFntnQang",
+        "title": "[10분 테코톡] 👨\u200d🔧유안의 Spring IoC/DI",
+        "description": "우아한테크코스의 크루들이 진행하는 10분 테크토크입니다. \u200d♂️ '10분 테코톡'이란 우아한테크코스 과정을 진행하며 크루(수강생) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_OI9mKuFb7c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_OI9mKuFb7c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_OI9mKuFb7c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "우아한Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-26T08:18:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vddaKZHlmSLmb48mzfL1A60I23Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4x1QRyMIjGU"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-26T08:14:38Z",
+        "channelId": "UC-mOekGSesms0agFntnQang",
+        "title": "[10분 테코톡] 🐅호돌의 Spring Webflux",
+        "description": "우아한테크코스의 크루들이 진행하는 10분 테크토크입니다. \u200d♂️ '10분 테코톡'이란 우아한테크코스 과정을 진행하며 크루(수강생) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4x1QRyMIjGU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4x1QRyMIjGU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4x1QRyMIjGU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "우아한Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-26T08:14:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "o9A40TBUgQjUN4pxkO-OZQ36SYU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ej-bnXlHk-E"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-21T05:31:52Z",
+        "channelId": "UC-mOekGSesms0agFntnQang",
+        "title": "[10분 테코톡] 🔪시카의 Java final과 불변 객체",
+        "description": "우아한테크코스의 크루들이 진행하는 10분 테크토크입니다. \u200d♂️ '10분 테코톡'이란 우아한테크코스 과정을 진행하며 크루(수강생) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ej-bnXlHk-E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ej-bnXlHk-E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ej-bnXlHk-E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "우아한Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-21T05:31:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8hsu0O1FlyAHrE08FnzVj2ux724",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OM_bN4wzd0g"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-21T02:28:52Z",
+        "channelId": "UC-mOekGSesms0agFntnQang",
+        "title": "[10분 테코톡] 🐶보스독의 테스트 격리",
+        "description": "우아한테크코스의 크루들이 진행하는 10분 테크토크입니다. \u200d♂️ '10분 테코톡'이란 우아한테크코스 과정을 진행하며 크루(수강생) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OM_bN4wzd0g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OM_bN4wzd0g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OM_bN4wzd0g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "우아한Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-21T02:28:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XY-uhrkMe3SLZiX3rhjV-hSeBC4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3iypR-1Glm0"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-20T04:51:01Z",
+        "channelId": "UC-mOekGSesms0agFntnQang",
+        "title": "[10분 테코톡] 🍄비밥의 자바 직렬화",
+        "description": "우아한테크코스의 크루들이 진행하는 10분 테크토크입니다. \u200d♂️ '10분 테코톡'이란 우아한테크코스 과정을 진행하며 크루(수강생) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3iypR-1Glm0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3iypR-1Glm0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3iypR-1Glm0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "우아한Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-20T04:51:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zyabLXlOLXrmjS0WwAVs24MVdzU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Fe3TVCEJhzo"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-20T04:37:31Z",
+        "channelId": "UC-mOekGSesms0agFntnQang",
+        "title": "[10분 테코톡] 🐥엘리의 GC",
+        "description": "우아한테크코스의 크루들이 진행하는 10분 테크토크입니다. \u200d♂️ '10분 테코톡'이란 우아한테크코스 과정을 진행하며 크루(수강생) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Fe3TVCEJhzo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Fe3TVCEJhzo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Fe3TVCEJhzo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "우아한Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-20T04:37:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kjxnELBod3ngISGeoObcUCSuRb8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "e9PC0sroCzc"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-14T04:21:15Z",
+        "channelId": "UC-mOekGSesms0agFntnQang",
+        "title": "[10분 테코톡] 🌼 예지니어스의 트랜잭션",
+        "description": "우아한테크코스의 크루들이 진행하는 10분 테크토크입니다. \u200d♂️ '10분 테코톡'이란 우아한테크코스 과정을 진행하며 크루(수강생) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e9PC0sroCzc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e9PC0sroCzc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e9PC0sroCzc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "우아한Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-14T04:21:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "S0gWCCmmyQjaof3sSEn_Acv1CYA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9ZXIoh9PtwY"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-14T04:17:29Z",
+        "channelId": "UC-mOekGSesms0agFntnQang",
+        "title": "[10분 테코톡] 🦋 레베카의 인덱스",
+        "description": "우아한테크코스의 크루들이 진행하는 10분 테크토크입니다. \u200d♂️ '10분 테코톡'이란 우아한테크코스 과정을 진행하며 크루(수강생) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9ZXIoh9PtwY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9ZXIoh9PtwY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9ZXIoh9PtwY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "우아한Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-14T04:17:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "S8gBTJACNSNO5TqkumoWh5SjNIk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NxFJ-mJdVNQ"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-07T04:23:50Z",
+        "channelId": "UC-mOekGSesms0agFntnQang",
+        "title": "[10분 테코톡] 📸소니의 Cache",
+        "description": "우아한테크코스의 크루들이 진행하는 10분 테크토크입니다. \u200d♂️ '10분 테코톡'이란 우아한테크코스 과정을 진행하며 크루(수강생) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NxFJ-mJdVNQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NxFJ-mJdVNQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NxFJ-mJdVNQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "우아한Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-07T04:23:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9cZTODd9VtmFRzbJQrEydNHkmXo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_0p72JJ9iM8"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-07T04:17:46Z",
+        "channelId": "UC-mOekGSesms0agFntnQang",
+        "title": "[10분 테코톡] 🐢터틀의 네트워크 보안",
+        "description": "우아한테크코스의 크루들이 진행하는 10분 테크토크입니다. \u200d♂️ '10분 테코톡'이란 우아한테크코스 과정을 진행하며 크루(수강생) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_0p72JJ9iM8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_0p72JJ9iM8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_0p72JJ9iM8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "우아한Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-07T04:17:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6_Q91XcM8mH3B2YFTR02TBsSXBU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MxxeKXydn4A"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-06T06:52:58Z",
+        "channelId": "UC-mOekGSesms0agFntnQang",
+        "title": "[10분 테코톡] 🥂무늬의 로깅",
+        "description": "우아한테크코스의 크루들이 진행하는 10분 테크토크입니다. \u200d♂️ '10분 테코톡'이란 우아한테크코스 과정을 진행하며 크루(수강생) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MxxeKXydn4A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MxxeKXydn4A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MxxeKXydn4A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "우아한Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-06T06:52:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Cksf-D8WYJibzp9UlNuG1WTNhSs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "y0xMXlOAfss"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-06T06:37:11Z",
+        "channelId": "UC-mOekGSesms0agFntnQang",
+        "title": "[10분 테코톡] 🎡토니의 인증과 인가",
+        "description": "우아한테크코스의 크루들이 진행하는 10분 테크토크입니다. \u200d♂️ '10분 테코톡'이란 우아한테크코스 과정을 진행하며 크루(수강생) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y0xMXlOAfss/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y0xMXlOAfss/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y0xMXlOAfss/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "우아한Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-06T06:37:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "G8khhgI2Bwtwp3pGqoNt8HsOxRk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pvUTTfLphIo"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-06T01:53:54Z",
+        "channelId": "UC-mOekGSesms0agFntnQang",
+        "title": "우아한테크코스 소개",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pvUTTfLphIo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pvUTTfLphIo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pvUTTfLphIo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "우아한Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-06T01:53:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "epY4Do2JejcLfLGmROF0ar1Uy8o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xcrjamphIp4"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-23T02:34:33Z",
+        "channelId": "UC-mOekGSesms0agFntnQang",
+        "title": "[10분 테코톡] 🧃쿨라임의 HTTP/1.1, HTTP/2, 그리고 QUIC",
+        "description": "우아한테크코스의 크루들이 진행하는 10분 테크토크입니다. \u200d♂️ '10분 테코톡'이란 우아한테크코스 과정을 진행하며 크루(수강생) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xcrjamphIp4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xcrjamphIp4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xcrjamphIp4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "우아한Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-23T02:34:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tNJalV8jSPx2ly1Uh_lwXKzSxvA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7Lie6YtzoUs"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-15T07:11:23Z",
+        "channelId": "UC-mOekGSesms0agFntnQang",
+        "title": "[우테코 🎬vlog] Ep.3 제이 in Jeju 🌴",
+        "description": "우테코로그 Ep.3 제이 in Jeju 우테코 vlog의 다음 주자는 제이입니다. 레벨 3, 팀 프로젝트를 시작하면서 팀 단합 겸 다 같이 제주도 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7Lie6YtzoUs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7Lie6YtzoUs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7Lie6YtzoUs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "우아한Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-15T07:11:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2B9Hh9oAo7UyrFiHsTndASw5NQk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BgaUJqZFFCU"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-08T01:06:29Z",
+        "channelId": "UC-mOekGSesms0agFntnQang",
+        "title": "[우테코 🎬vlog] 우테코 온라인 방학식",
+        "description": "2020년 8월 28일 우아한테크코스의 2기 과정의 레벨3를 마무리하는 방학식을 온라인으로 가졌습니다. 코로나로 인해 긴 항해   ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BgaUJqZFFCU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BgaUJqZFFCU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BgaUJqZFFCU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "우아한Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-08T01:06:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SLGFTgZSVLllvMBPCvRdYYKwOJI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EuMUMu4TJZ4"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-04T05:57:20Z",
+        "channelId": "UC-mOekGSesms0agFntnQang",
+        "title": "[프로젝트 소개] Taggle",
+        "description": "우아한테크코스의 크루들이 진행한 프로젝트 소개 영상입니다 크루들이 8주동안 만든 프로젝트를 공개합니다! 소개 영상을 확인해 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EuMUMu4TJZ4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EuMUMu4TJZ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EuMUMu4TJZ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "우아한Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-04T05:57:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UCldCTIPEjvoOcBshdltAJ7hXrY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YkgeXlQC_ak"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-04T05:42:58Z",
+        "channelId": "UC-mOekGSesms0agFntnQang",
+        "title": "[프로젝트 소개] Peloton",
+        "description": "우아한테크코스의 크루들이 진행한 프로젝트 소개 영상입니다 크루들이 8주동안 만든 프로젝트를 공개합니다! 소개 영상을 확인해 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YkgeXlQC_ak/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YkgeXlQC_ak/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YkgeXlQC_ak/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "우아한Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-04T05:42:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cC4WnwFvmFcqmBNFfTOTCdPATUI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Dq5JfeE-u7c"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-04T05:28:34Z",
+        "channelId": "UC-mOekGSesms0agFntnQang",
+        "title": "[프로젝트 소개] 도란도란",
+        "description": "우아한테크코스의 크루들이 진행한 프로젝트 소개 영상입니다 크루들이 8주동안 만든 프로젝트를 공개합니다! 소개 영상을 확인해 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Dq5JfeE-u7c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Dq5JfeE-u7c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Dq5JfeE-u7c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "우아한Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-04T05:28:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_dVx6-ORqGoiLL6jG0xlrLCUZyY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2xjXCl2Hdp8"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-04T05:05:31Z",
+        "channelId": "UC-mOekGSesms0agFntnQang",
+        "title": "[프로젝트 소개] 미소",
+        "description": "우아한테크코스의 크루들이 진행한 프로젝트 소개 영상입니다 크루들이 8주동안 만든 프로젝트를 공개합니다! 소개 영상을 확인해 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2xjXCl2Hdp8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2xjXCl2Hdp8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2xjXCl2Hdp8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "우아한Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-04T05:05:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WNolQVxetuRV1EWx_nTIdnXUS7Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qLrSQ_Yi_Ms"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-03T01:54:46Z",
+        "channelId": "UC-mOekGSesms0agFntnQang",
+        "title": "[프로젝트 4차 데모] 14층녀석들의 Peloton",
+        "description": "우아한테크코스의 크루들이 진행 중인 프로젝트 4차 데모 영상입니다 크루들이 스스로 기획하고 개발 중인 프로젝트의 4차 데모는 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qLrSQ_Yi_Ms/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qLrSQ_Yi_Ms/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qLrSQ_Yi_Ms/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "우아한Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-03T01:54:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XCwQN106D1-gTHQpGM59_aSJRzo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5m3KX__EcrY"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-02T03:14:06Z",
+        "channelId": "UC-mOekGSesms0agFntnQang",
+        "title": "[프로젝트 4차 데모] 풀하우스의 도란도란",
+        "description": "우아한테크코스의 크루들이 진행 중인 프로젝트 4차 데모 영상입니다 크루들이 스스로 기획하고 개발 중인 프로젝트의 4차 데모는 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5m3KX__EcrY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5m3KX__EcrY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5m3KX__EcrY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "우아한Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-02T03:14:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AlYJZ5fqjbZilZnzeHfb486g7DA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9r9rTYY7V74"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-02T03:09:16Z",
+        "channelId": "UC-mOekGSesms0agFntnQang",
+        "title": "[프로젝트 4차 데모] Around Thirty의 Taggle",
+        "description": "우아한테크코스의 크루들이 진행 중인 프로젝트 4차 데모 영상입니다 크루들이 스스로 기획하고 개발 중인 프로젝트의 4차 데모는 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9r9rTYY7V74/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9r9rTYY7V74/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9r9rTYY7V74/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "우아한Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-02T03:09:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_3ceNmncVTmBbFA79VmlIG2iFjI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uT2b0Qo9ZTc"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-02T02:43:39Z",
+        "channelId": "UC-mOekGSesms0agFntnQang",
+        "title": "[프로젝트 4차 데모] 송파구 사람들의 미소",
+        "description": "우아한테크코스의 크루들이 진행 중인 프로젝트 4차 데모 영상입니다 크루들이 스스로 기획하고 개발 중인 프로젝트의 4차 데모는 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uT2b0Qo9ZTc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uT2b0Qo9ZTc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uT2b0Qo9ZTc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "우아한Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-02T02:43:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "35LGq0i01E-SEU9VjD3qJLBONBM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "w0tWiW3mzUQ"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-31T08:23:43Z",
+        "channelId": "UC-mOekGSesms0agFntnQang",
+        "title": "[프로젝트 3차 데모] Around Thirty의 Taggle",
+        "description": "우아한테크코스의 크루들이 진행 중인 프로젝트 3차 데모 영상입니다 크루들이 스스로 기획하고 개발 중인 프로젝트의 세 번째 데모 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w0tWiW3mzUQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w0tWiW3mzUQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w0tWiW3mzUQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "우아한Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-31T08:23:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EWe0iSuB1F1Fb-KAriZUOmSIPFQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aMtPlyUz0xI"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-31T05:38:39Z",
+        "channelId": "UC-mOekGSesms0agFntnQang",
+        "title": "[프로젝트 3차 데모] 5Geul의 새벽",
+        "description": "우아한테크코스의 크루들이 진행 중인 프로젝트 3차 데모 영상입니다 크루들이 스스로 기획하고 개발 중인 프로젝트의 세 번째 데모 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aMtPlyUz0xI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aMtPlyUz0xI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aMtPlyUz0xI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "우아한Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-31T05:38:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qIdahryFnatcuXA_pqLtxykqSnI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1pfTxp25MA8"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-25T02:48:33Z",
+        "channelId": "UC-mOekGSesms0agFntnQang",
+        "title": "[10분 테코톡] 🔮 히히의 OSI 7 Layer",
+        "description": "우아한테크코스의 크루들이 진행하는 10분 테크토크입니다. \u200d♂️ '10분 테코톡'이란 우아한테크코스 과정을 진행하며 크루(수강생) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1pfTxp25MA8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1pfTxp25MA8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1pfTxp25MA8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "우아한Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-25T02:48:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "n0nwOxjjZcCXxqYtomfkSOuXBIA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oeuVjeeoLSQ"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-25T02:18:49Z",
+        "channelId": "UC-mOekGSesms0agFntnQang",
+        "title": "[10분 테코톡] 🍊오렌지의 리눅스 파일 시스템",
+        "description": "우아한테크코스의 크루들이 진행하는 10분 테크토크입니다. \u200d♂️ '10분 테코톡'이란 우아한테크코스 과정을 진행하며 크루(수강생) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oeuVjeeoLSQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oeuVjeeoLSQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oeuVjeeoLSQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "우아한Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-25T02:18:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "r6UDqBhnxlimNrre1ocJhufRuVA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IdpkfygWIMk"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-20T03:51:10Z",
+        "channelId": "UC-mOekGSesms0agFntnQang",
+        "title": "[10분 테코톡] 🎧 우의 Block vs Non-Block &amp; Sync vs Async",
+        "description": "우아한테크코스의 크루들이 진행하는 10분 테크토크입니다. \u200d♂️ '10분 테코톡'이란 우아한테크코스 과정을 진행하며 크루(수강생) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IdpkfygWIMk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IdpkfygWIMk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IdpkfygWIMk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "우아한Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-20T03:51:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UYMYqSTxK4pUj7LMFBn4GcYGozw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OPdjLaW0flU"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-19T08:13:49Z",
+        "channelId": "UC-mOekGSesms0agFntnQang",
+        "title": "[10분 테코톡] ⛄️그니의 리눅스 메모리 관리",
+        "description": "우아한테크코스의 크루들이 진행하는 10분 테크토크입니다. \u200d♂️ '10분 테코톡'이란 우아한테크코스 과정을 진행하며 크루(수강생) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OPdjLaW0flU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OPdjLaW0flU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OPdjLaW0flU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "우아한Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-19T08:13:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CvcitWmztudpBsD-XaanJpjSpEc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "F_vBAbjj4Pk"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-18T05:02:43Z",
+        "channelId": "UC-mOekGSesms0agFntnQang",
+        "title": "[10분 테코톡] 🎙티거의 Web server  vs WAS",
+        "description": "우아한테크코스의 크루들이 진행하는 10분 테크토크입니다. \u200d♂️ '10분 테코톡'이란 우아한테크코스 과정을 진행하며 크루(수강생) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F_vBAbjj4Pk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F_vBAbjj4Pk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F_vBAbjj4Pk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "우아한Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-18T05:02:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hcSD5wT5J4Kc4Q8f3NVjFB5vAw0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ncmcGYh8cRY"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-11T02:14:12Z",
+        "channelId": "UC-mOekGSesms0agFntnQang",
+        "title": "[프로젝트 2차 데모] 이따비의 우리동네캡짱",
+        "description": "우아한테크코스의 크루들이 진행 중인 프로젝트 2차 데모 영상입니다 크루들이 스스로 기획하고 개발 중인 프로젝트의 두 번째 데모 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ncmcGYh8cRY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ncmcGYh8cRY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ncmcGYh8cRY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "우아한Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-11T02:14:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2q7xQs-FqRLKJH-9YipbOyuJ3Xs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "q2NF6tJEZOQ"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-11T01:42:13Z",
+        "channelId": "UC-mOekGSesms0agFntnQang",
+        "title": "[프로젝트 2차 데모]14층 녀석들의 Peloton",
+        "description": "우아한테크코스의 크루들이 진행 중인 프로젝트 2차 데모 영상입니다 크루들이 스스로 기획하고 개발 중인 프로젝트의 두 번째 데모 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q2NF6tJEZOQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q2NF6tJEZOQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q2NF6tJEZOQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "우아한Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-11T01:42:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "v1HF0M751khKgpJDecmqaJ9XkxU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VLnIZ6oGKbs"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-10T07:04:56Z",
+        "channelId": "UC-mOekGSesms0agFntnQang",
+        "title": "[프로젝트 2차 데모] Minguinho의 Slidemd",
+        "description": "우아한테크코스의 크루들이 진행 중인 프로젝트 2차 데모 영상입니다 크루들이 스스로 기획하고 개발 중인 프로젝트의 두 번째 데모 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VLnIZ6oGKbs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VLnIZ6oGKbs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VLnIZ6oGKbs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "우아한Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-10T07:04:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NOmtoyGktrHGO9jILMxhCukQvMw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "67TDNiSYRTM"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-10T05:50:55Z",
+        "channelId": "UC-mOekGSesms0agFntnQang",
+        "title": "[프로젝트 2차 데모] 셀러리컴퍼니의 Seller, lee",
+        "description": "우아한테크코스의 크루들이 진행 중인 프로젝트 2차 데모 영상입니다 크루들이 스스로 기획하고 개발 중인 프로젝트의 두 번째 데모 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/67TDNiSYRTM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/67TDNiSYRTM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/67TDNiSYRTM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "우아한Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-10T05:50:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hZNsd1gKrYW5iwqWoWdS3tkcoSc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zWSsnWhTidU"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-06T05:54:15Z",
+        "channelId": "UC-mOekGSesms0agFntnQang",
+        "title": "[우테코 인터뷰 챌린지] 🔪 시카에게 묻다!",
+        "description": "우아한테크코스의 크루들이 진행하는 인터뷰 챌린지입니다.   우테코 인터뷰 챌린지의 다음 주인공은 시카입니다 ! 우테코 대표 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zWSsnWhTidU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zWSsnWhTidU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zWSsnWhTidU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "우아한Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-06T05:54:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OOD446aH_ALTwQl6CXJBz6W2LkE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SuuGs3szT2s"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-04T08:29:38Z",
+        "channelId": "UC-mOekGSesms0agFntnQang",
+        "title": "[우테코 인터뷰 챌린지] 🧘\u200d♂️ 코즈에게 묻다!",
+        "description": "우아한테크코스의 크루들이 진행하는 인터뷰 챌린지입니다.   우테코 인터뷰 챌린지의 네 번째 주인공은 코즈입니다! 코즈가 다량의 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SuuGs3szT2s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SuuGs3szT2s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SuuGs3szT2s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "우아한Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-04T08:29:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oFhCWKzAcu4_7-NAY-O-M_zFFOo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DmZnOg5Ced8"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-04T07:01:27Z",
+        "channelId": "UC-mOekGSesms0agFntnQang",
+        "title": "[10분 테코톡] 👩\u200d💻👨\u200d💻 쪼밀리와 오구의 Process vs Thread",
+        "description": "우아한테크코스의 크루들이 진행하는 10분 테크토크입니다. \u200d♂️ '10분 테코톡'이란 우아한테크코스 과정을 진행하며 크루(수강생) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DmZnOg5Ced8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DmZnOg5Ced8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DmZnOg5Ced8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "우아한Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-04T07:01:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XvPpTDfOgjq8a2zEd2Ps_UxJBtc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ndVYCPm-LH4"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-03T08:30:27Z",
+        "channelId": "UC-mOekGSesms0agFntnQang",
+        "title": "[10분 테코톡] 💃🕺 또링, 스티치, 알트, 토니, 코즈의 SUPP",
+        "description": "우아한테크코스의 크루들이 진행하는 10분 테크토크입니다. \u200d♂️ '10분 테코톡'이란 우아한테크코스 과정을 진행하며 크루(수강생) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ndVYCPm-LH4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ndVYCPm-LH4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ndVYCPm-LH4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "우아한Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-03T08:30:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "U3soMiaM91Pt4elAnD51X7Zv9ck",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BuzU9usQDhc"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-31T04:56:18Z",
+        "channelId": "UC-mOekGSesms0agFntnQang",
+        "title": "[프로젝트 1차 데모] 마시는 여섯들의 칵테일픽",
+        "description": "우아한테크코스의 크루들이 진행 중인 프로젝트 1차 데모 영상입니다 크루들이 스스로 기획하고 개발 중인 프로젝트의 첫 번째 데모 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BuzU9usQDhc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BuzU9usQDhc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BuzU9usQDhc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "우아한Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-31T04:56:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jllhxbE1lFp2rINFER5DYrGters",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JPmA2tIt8ME"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-30T07:16:44Z",
+        "channelId": "UC-mOekGSesms0agFntnQang",
+        "title": "[프로젝트 1차 데모] 셀러리컴퍼니의 Seller, lee",
+        "description": "우아한테크코스의 크루들이 진행 중인 프로젝트 1차 데모 영상입니다 크루들이 스스로 기획하고 개발 중인 프로젝트의 첫 번째 데모 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JPmA2tIt8ME/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JPmA2tIt8ME/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JPmA2tIt8ME/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "우아한Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-30T07:16:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_KYsr9JaA0o6Y4Gzgu4DNNzvXwQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XMETX19bo3o"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-30T06:31:19Z",
+        "channelId": "UC-mOekGSesms0agFntnQang",
+        "title": "[프로젝트 1차 데모] 14층 녀석들의 Peloton",
+        "description": "우아한테크코스의 크루들이 진행 중인 프로젝트 1차 데모 영상입니다 크루들이 스스로 기획하고 개발 중인 프로젝트의 첫 번째 데모 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XMETX19bo3o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XMETX19bo3o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XMETX19bo3o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "우아한Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-30T06:31:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "n7Pon3CqngjPwKQt8qOde7vTE14",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YxwYhenZ3BE"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-21T06:16:44Z",
+        "channelId": "UC-mOekGSesms0agFntnQang",
+        "title": "[10분 테코톡] 🐿 제이미의 Forward Proxy, Reverse Proxy, Load Balancer",
+        "description": "우아한테크코스의 크루들이 진행하는 10분 테크토크입니다. \u200d♂️ '10분 테코톡'이란 우아한테크코스 과정을 진행하며 크루(수강생) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YxwYhenZ3BE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YxwYhenZ3BE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YxwYhenZ3BE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "우아한Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-21T06:16:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dW6fZVVuzPuucY47JLK-X6A2Mv0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OdpPvdB7qZY"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-15T04:03:33Z",
+        "channelId": "UC-mOekGSesms0agFntnQang",
+        "title": "[10분 테코톡] 💎 또링의 Spring과 Spring Boot",
+        "description": "발표 자료 🖼️ 발표에 관한 추가적인 내용은 https://ssoco.tistory.com/66 여기서 더 자세히 보실 수 있습니다 \u200d♀️ 우아한테크코스 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OdpPvdB7qZY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OdpPvdB7qZY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OdpPvdB7qZY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "우아한Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-15T04:03:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rEnsBGwrRtFvm_iDbVPDU3YyRGw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2pBsXI01J6M"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-26T06:09:39Z",
+        "channelId": "UC-mOekGSesms0agFntnQang",
+        "title": "[10분 테코톡] 🌻타미의 Servlet vs Spring",
+        "description": "우아한테크코스의 크루들이 진행하는 10분 테크토크입니다. \u200d♂️ '10분 테코톡'이란 우아한테크코스 과정을 진행하며 크루(수강생) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2pBsXI01J6M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2pBsXI01J6M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2pBsXI01J6M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "우아한Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-26T06:09:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Fw9stUgKXaHwO8PFNaPY5FHpHjM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mezbxKGu68Y"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-24T02:22:34Z",
+        "channelId": "UC-mOekGSesms0agFntnQang",
+        "title": "[10분 테코톡] 🧘\u200d♂️코즈의 JDBC, SQLMAPPER, ORM",
+        "description": "우아한테크코스의 크루들이 진행하는 10분 테크토크입니다. \u200d♂️ '10분 테코톡'이란 우아한테크코스 과정을 진행하며 크루(수강생) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mezbxKGu68Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mezbxKGu68Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mezbxKGu68Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "우아한Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-24T02:22:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DfwnOknNWZX0goeMWnPCzzZFeBs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-ZG8uX7mpuk"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-22T07:14:28Z",
+        "channelId": "UC-mOekGSesms0agFntnQang",
+        "title": "[10분 테코톡] 🌳임루트의 프레임워크 vs 라이브러리 vs API",
+        "description": "우아한테크코스의 크루들이 진행하는 10분 테크토크입니다. \u200d♂️ '10분 테코톡'이란 우아한테크코스 과정을 진행하며 크루(수강생) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-ZG8uX7mpuk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-ZG8uX7mpuk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-ZG8uX7mpuk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "우아한Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-22T07:14:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "roUPbKVkTpnsZI5iL8lzZy3u4u4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6SvUZqbU37E"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-19T04:59:08Z",
+        "channelId": "UC-mOekGSesms0agFntnQang",
+        "title": "[10분 테코톡] 🐳스티치의 빌드와 배포",
+        "description": "우아한테크코스의 크루들이 진행하는 10분 테크토크입니다. \u200d♂️ '10분 테코톡'이란 우아한테크코스 과정을 진행하며 크루(수강생) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6SvUZqbU37E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6SvUZqbU37E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6SvUZqbU37E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "우아한Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-19T04:59:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mP0xcWTTtIv8s5fn_2Ve9jP_Aj8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xz7e-GL2g6g"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-15T05:43:17Z",
+        "channelId": "UC-mOekGSesms0agFntnQang",
+        "title": "[10분 테코톡] 🐬히로의 웹 요청과 응답",
+        "description": "우아한테크코스의 크루들이 진행하는 10분 테크토크입니다. \u200d♂️ '10분 테코톡'이란 우아한테크코스 과정을 진행하며 크루(수강생) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xz7e-GL2g6g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xz7e-GL2g6g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xz7e-GL2g6g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "우아한Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-15T05:43:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mkc9V4c-Rv3GHlkJ9_CkgptEkl4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YJ4JJsGy8rY"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-11T03:40:14Z",
+        "channelId": "UC-mOekGSesms0agFntnQang",
+        "title": "[10분 테코톡] ☀️앨런의 상속보다는 Composition",
+        "description": "우아한테크코스의 크루들이 진행하는 10분 테크토크입니다. \u200d♂️ '10분 테코톡'이란 우아한테크코스 과정을 진행하며 크루(수강생) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YJ4JJsGy8rY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YJ4JJsGy8rY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YJ4JJsGy8rY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "우아한Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-11T03:40:14Z"
+      }
+    }
+  ]
+}
