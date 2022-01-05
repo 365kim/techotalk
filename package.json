@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "scripts": {
+    "show": "node --experimental-json-modules src/main.js"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
