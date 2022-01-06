@@ -17,7 +17,7 @@ export function dataParser(video) {
 
   const videoURL = `https://www.youtube.com/watch?v=${id.videoId}`;
   const fullTitle = snippet.title;
-  const thumnailURL = snippet.thumbnails.medium.url;
+  const thumbnailURL = snippet.thumbnails.medium.url;
 
   /* 예시: [10분 테코톡] 💙 하루의 실행 컨텍스트 */
   const DIVIDER = '의 ';
@@ -30,7 +30,7 @@ export function dataParser(video) {
   const publishedYear = snippet.publishedAt.slice(0, 4);
   const year = yearMap[publishedYear];
 
-  const videoData = { videoURL, thumnailURL, topic, speaker, year };
+  const videoData = { videoURL, thumbnailURL, topic, speaker, year };
 
   return { isValid: true, videoData };
 }
