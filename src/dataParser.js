@@ -1,4 +1,10 @@
 const REGEXP_NOT_KOREAN_NOR_AMPERSAND = /[^\u1100-\u11FF\u3130-\u318F\uA960-\uA97F\uAC00-\uD7AF\uD7B0-\uD7FF|\&amp\;]/g;
+const yearMap = {
+  2019: '1기',
+  2020: '2기',
+  2021: '3기',
+  2022: '4기',
+};
 
 export function dataParser(video) {
   const { snippet, id } = video;
@@ -21,8 +27,10 @@ export function dataParser(video) {
 
   const speakerPossiblyWithEmoji = fullTitle.split(DIVIDER)[0].split(' ').slice(-1)[0];
   const speaker = speakerPossiblyWithEmoji.replaceAll(REGEXP_NOT_KOREAN_NOR_AMPERSAND, '');
+  const publishedYear = snippet.publishedAt.slice(0, 4);
+  const year = yearMap[publishedYear];
 
-  const videoData = { videoURL, thumnailURL, topic, speaker };
+  const videoData = { videoURL, thumnailURL, topic, speaker, year };
 
   return { isValid: true, videoData };
 }
