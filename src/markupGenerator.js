@@ -1,7 +1,7 @@
 const ROW_START = '|';
 const ROW_END = '|';
 const ROW_LENGTH = 5;
-const THUMNAIL_WIDTH = 140;
+const THUMNAIL_WIDTH = 120;
 
 const titleTemplate = ({ index, speaker, topic, videoURL }) =>
   `${ROW_START} ${index} <br> <sup> ${speaker} </sup> <br>  [<sup>**${topic}**</sup>](${videoURL}) `;
