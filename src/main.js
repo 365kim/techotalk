@@ -1,3 +1,5 @@
+import fs from 'fs';
+
 import { totalData } from '../data/index.js';
 import { SORTED_CATEGORIES, getCategory } from './category.js';
 import { markupGenerator } from './markupGenerator.js';
@@ -22,6 +24,11 @@ const classifyData = (totalData) => {
 };
 
 const dataByCategory = classifyData(totalData);
-const readme = SORTED_CATEGORIES.map((category) => markupGenerator(category, dataByCategory[category])).join('');
+const readmeContent = SORTED_CATEGORIES.map((category) => markupGenerator(category, dataByCategory[category])).join('');
 
-console.log(readme);
+fs.writeFile('./src/readmeContent.txt', readmeContent, function (err) {
+  if (err) {
+    throw new Error('README 내용 파일을 만드는데 실패했어요 :(');
+  }
+  console.log('README 내용 파일을 만들었어요 :)');
+});
