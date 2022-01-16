@@ -1,7 +1,8 @@
 {
   "type": "module",
   "scripts": {
-    "show": "node --experimental-json-modules src/main.js"
+    "update": "zx src/script.mjs",
+    "u": "npm run update"
   },
   "dependencies": {
     "dotenv": "^10.0.0"
