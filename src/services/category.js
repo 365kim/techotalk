@@ -45,6 +45,22 @@ const frontEnd = [
   'This',
   'DOM&amp;BOM',
   'Virtual DOM',
+  '프론트엔드에서의 에러핸들링',
+  '웹 접근성',
+  '리액트 렌더링 최적화',
+  'Node.js',
+  'React 18에서의 변경점',
+  'React의 state',
+  '제어 컴포넌트 vs 비제어 컴포넌트',
+  'Hooks',
+  '브라우저 렌더링',
+  '비동기 처리 - Promise',
+  '클로저',
+  '디바운싱과 쓰로틀링',
+  '브라우저의 Event Loop',
+  'this',
+  '데이터타입과 불변성',
+  'var let const 비교',
 ];
 
 const backEnd = [
@@ -87,6 +103,19 @@ const backEnd = [
   'Servlet &amp; Spring',
   'JPA와 JDBC',
   'DTO vs VO',
+  '@Transactional',
+  'JDK Dynamic Proxy와 CGLIB',
+  'JVM Memory Layout',
+  'JDBC, SQL Mapper, ORM',
+  'Gradle',
+  '스프링 트랜잭션',
+  'Spring Bean',
+  'DI와 IoC',
+  'Servlet &amp; Spring Web MVC',
+  'Java 11',
+  'stream vs for',
+  '람다',
+  '인터페이스',
 ];
 
 const network = [
@@ -127,6 +156,11 @@ const network = [
   'CORS',
   'Web polling vs Web push',
   'Apache MPM vs NGINX vs Node.js',
+  '쿠키 vs 세션 vs 토큰 vs 캐시',
+  'REST API',
+  '데이터 통신',
+  'HTTP',
+  'HTTP 메서드와 상태코드',
 ];
 
 const operatingSystem = [
@@ -191,9 +225,20 @@ const designPatternAndArchitecture = [
   '전략 패턴',
   'MVC Pattern',
   'MVC',
+  '함수형 프로그래밍',
+  'Flux Architecture',
+  'OOP vs FP',
+  '상속과 조합',
+  '싱글턴 패턴과 정적 클래스',
 ];
 
-const test = ['TDD와 단위테스트', '테스트 코드 최적화 여행기', '테스트 격리'];
+const test = [
+  'TDD와 단위테스트',
+  '테스트 코드 최적화 여행기',
+  '테스트 격리',
+  'Classic TDD VS Mockist TDD',
+  '편하게 콘솔 테스트하기',
+];
 
 const etc = [
   '인텔리제이 디버깅',
@@ -210,6 +255,10 @@ const etc = [
   '우아한테크코스 도서관리시스템',
   '점심봇',
   'SUPP',
+  'RegExp의 효율적 활용',
+  'Parameter와 Argument',
+  'Merge, Rebase, Cherry pick',
+  'Git 브랜칭 전략',
 ];
 
 export function getCategory(topic) {
